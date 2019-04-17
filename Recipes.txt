@@ -8,4 +8,7 @@ lasagna
 burger
 chicken fry
 
+beans
+pizza
+
 thank you!!
